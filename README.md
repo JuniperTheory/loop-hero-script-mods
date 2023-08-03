@@ -1,5 +1,5 @@
 # loop-hero-script-mods
-A Loop Hero mod that changes the script to be gender neutral or gender flipped in different scenarios. 
+A Loop Hero mod that changes the script to be gender flipped in different scenarios. 
 
 I may add more script mods as time goes on, if people are interested.  Feel free to dm me if you want to do stuff like that, or for other translations
 
